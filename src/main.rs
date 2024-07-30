@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Degree Converter");
+    println!("Temperature Converter");
 
     let degree: [&str; 2] = ["[1] To Celsius", "[2] To Fahrenheit"];
 
